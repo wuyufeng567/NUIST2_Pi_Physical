@@ -1,3 +1,5 @@
+#Name:Wu Yufeng
+#Date:25/4/1
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
